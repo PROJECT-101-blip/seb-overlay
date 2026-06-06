@@ -99,7 +99,7 @@ py -3.13 -m venv .venv
 pip install -r requirements.txt
 ```
 
-3) Install Safe Exam Browser [VERSION] (the original one) from [here]().
+3) Install Safe Exam Browser (the original one) from [here](https://github.com/SafeExamBrowser/seb-win-refactoring/releases/tag/v3.10.0).
 
 4) Close everything on your desktop and run capture module. This will snip and save images into `/assets`
 
