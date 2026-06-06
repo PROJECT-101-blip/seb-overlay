@@ -107,7 +107,7 @@ pip install -r requirements.txt
 python -m capture
 ```
 
-5) Now it's time to patch SEB. Download the patch [VERSION] from [here](), and run it.
+5) Now it's time to patch SEB. Download the patch from [here](https://software.vichingo455.qzz.io/Random%20Files/Projects/SEBPatch/?__cf_chl_tk=1MiTQehsQ_ZuSr6.dNMy8j1SEbHA9sF2trH0RUdYyec-1780727878-1.0.1.1-ExaHCJxHhqSIuroL3D4nNbKqWKDA5clXAUP0apKC4cQ), and run it.
 
 6) Open SEB on your desktop to make sure it is patched. It should look like this:
 
